@@ -15,6 +15,11 @@ body {
   color: var(--color-text-primary);
   font-family: var(--font-sans);
   overflow-x: hidden;
+  cursor: none;
+}
+
+a, button, [role="button"], input, select, textarea {
+  cursor: none !important;
 }
 
 /* Grain texture */

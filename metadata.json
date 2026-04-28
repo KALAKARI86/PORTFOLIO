@@ -1,5 +1,6 @@
 {
-  "name": "Premium Glassmorphic Portfolio",
+  "name": "Portfolio",
   "description": "A high-end, responsive single-page personal portfolio website with a dark glassmorphic aesthetic.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
